@@ -8,6 +8,8 @@ function App() {
   return (
     <div>
       <Home />
+      {/* <Dangnhap /> */}
+      {/* <Dangky /> */}
     </div>
   );
 }
